@@ -8,6 +8,8 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
 ## Problem Statement
-In this challenge, we are tasked to complete the analysis of what kinds of people were likely to survive. No, we are not trying to predict or hypothesize whether Jack and Rose could have both survived on the door in Titanic.
+In this challenge, we are tasked to complete the analysis of what kinds of people were likely to survive. 
+
+And before you ask, no, we are not trying to predict or hypothesize whether Jack and Rose could have both survived on the door in Titanic.
 
 ![They could not have both survived.](https://www.thesun.co.uk/wp-content/uploads/2017/01/nintchdbpict000268497624-e1485887027515.jpg?strip=all&w=960)
